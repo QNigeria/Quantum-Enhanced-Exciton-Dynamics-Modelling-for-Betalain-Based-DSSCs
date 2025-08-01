@@ -1,0 +1,2 @@
+# Quantum-Enhanced-Exciton-Dynamics-Modelling-for-Betalain-Based-DSSCs
+Dye-Sensitised Solar Cells (DSSCs) represent a promising alternative to conventional photovoltaics, combining low-cost fabrication with tuneable optoelectronic properties [1]. Among natural sensitizers, betalain dyes—derived from plants such as beetroot—have gained attention for their broad light absorption spectra, environmental sustainability
