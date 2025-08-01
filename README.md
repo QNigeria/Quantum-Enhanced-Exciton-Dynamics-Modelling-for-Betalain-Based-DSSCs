@@ -68,6 +68,9 @@ The project was run on **Classical Computation** and **Quantum Computing**
 
   _This report details the implementation of the Variational Quantum Eigensolver (VQE) algorithm for calculating the ground state energy of a single oxygen atom. The approach is a hybrid quantum-classical method that leverages the strengths of both a quantum computer for expectation value calculations and a classical computer for optimization. This analysis is performed on a single oxygen atom as a proxy for the larger betalain molecule, with the understanding that the approach can be generalized to more complex systems_
 
+  <img width="998" height="600" alt="image" src="https://github.com/user-attachments/assets/13ef94b4-4be1-4867-bc46-2ab75b903416" />
+
+
 > Let’s plot the values of the ground state energy of the molecule and the gate parameter θ as a function of the optimization step.
 
 <img width="1018" height="576" alt="image" src="https://github.com/user-attachments/assets/fef23cff-df22-48a3-90f5-7d5c2c4094d8" />
