@@ -21,21 +21,25 @@ vi. Resources (That is Source documents)
  **Quantum-Enhanced Exciton Dynamics Modelling for Betalain-Based DSSCs**
 
 ### Names of Team Members
-> (1) Ini
+> (1) Ini Ekpenyong Ukut
 
-> (2) Doctor Daniel
+> (2) Dr. Thomas Ojonugwa Daniel
 
-> (3) Kenneth
+> (3) Kenenth Isamade
 
-> (4) Segun
+> (4) Segun Oguntunnbi
 
-> (5) Adisa
+> (5) Ibukunoluwa Adisa
 
-> (6) Aniekan
+> (6) Aniekan Afangide
 
 > (7) Otene
 
-> (8) Gospel
+> (8) Gospel Aigbodekheme Egeruan
+
+> (9) Paul O Onoja
+
+> (10) Tiamiyu Afees Olamilekan
 
 ### Challenge overview
 Dye-Sensitised Solar Cells *(DSSCs)* represent a promising alternative to conventional photovoltaics, combining low-cost fabrication with tuneable optoelectronic properties [1]. Among natural sensitizers, betalain dyes—derived from plants such as beetroot—have gained attention for their broad light absorption spectra, environmental sustainability, and compatibility with titanium dioxide *(TiO₂)* semiconductors [2-3]. The efficiency of betalainbased DSSCs hinges on exciton dynamics at the dye-semiconductor interface, particularly the processes of exciton generation, dissociation, and charge transfer [4]. However, classical computational methods, such as Density Functional Theory *(DFT)* and Time-Dependent DFT (TDDFT), struggle to model these phenomena accurately due to their inability to scale efficiently for large systems and capture long-range electron correlations [5]. Quantum computing, with its inherent capacity to simulate quantum-mechanical systems exponentially faster, offers a transformative solution [6]. This proposal introduces a quantum-enhanced framework to model exciton dynamics in betalain-TiO₂ interfaces, leveraging algorithms like the **Variational Quantum Eigensolver (VQE)** and **Quantum Phase Estimation (QPE)** to overcome classical limitations and advance DSSC design.
