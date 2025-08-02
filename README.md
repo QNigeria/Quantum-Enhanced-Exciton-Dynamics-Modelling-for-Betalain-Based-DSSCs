@@ -33,7 +33,7 @@ vi. Resources (That is Source documents)
 
 > (6) Aniekan Afangide
 
-> (7) Otene
+> (7) Otene ThankGod Sunday
 
 > (8) Gospel Aigbodekheme Egeruan
 
